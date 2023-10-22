@@ -9,6 +9,7 @@ namespace Manually_Throwing_Custom_Exception
    
     internal class ProductClass
     {
+
         private int _Quantity;
         private double _SellingPrice;
         private string _ProductName, _Category, _ManufacturingDate, _ExpirationDate, _Description;
